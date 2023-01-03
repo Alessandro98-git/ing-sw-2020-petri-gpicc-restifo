@@ -1,7 +1,7 @@
 # Multiplatform distributed Java Game
 ## Software Engineering 1 - Final test, ay 2019-2020
 
-<em>Project's aim is to develop an online distributed version of the table game Santorini from Cranio Creations, the software is developed using the Distributed MVC pattern with java programming language. The project leveraged competences in UML design, Maven build tool and Java multithreaded online distributed development.</em>
+<em>The project aim is to develop an online distributed version of the table game Santorini from Cranio Creations, the software is developed using the Distributed MVC pattern with java programming language. The project leveraged competences in UML design, Maven build tool and Java multithreaded online distributed development.</em>
 
 ### The project
 
